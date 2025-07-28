@@ -1,10 +1,120 @@
-- 👋 Hi, I’m @romaisa-0
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python , Data Structures & taking C language along 
-- 💞️ I’m looking to collaborate on open-source projects related to artificial intelligence and machine learning
-- 📫 reach me at romaisanisar12@gmail.com
+# 👩‍💻 Romaisa Nisar
 
-<!---
-romaisa-0/romaisa-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Computer & Information Systems Engineer | Machine Learning Enthusiast | Full-Stack Developer**
+
+📍 Karachi, Pakistan  
+📧 romaisanisar21@gmail.com | 📱 +92-332-2939974  
+🌐 [LinkedIn](https://linkedin.com/in/romaisa-nisar-a64811278) | [GitHub](https://github.com/romaisa-0)
+
+---
+
+## 🧠 About Me
+
+I'm a final-year Computer & Information Systems Engineering student at NEDUET, deeply passionate about building real-world solutions using **Machine Learning**, **Web Technologies**, and **IoT**. With hands-on experience in **Python**, **Flask**, **Django**, and ML model integration, I'm constantly exploring ways to bridge software with smart, data-driven systems.
+
+I thrive on challenges, whether it's designing a predictive system, building a full-stack app, or optimizing user experiences. I love learning and aim to grow as a **Machine Learning Engineer** or **Full-Stack Developer**.
+
+---
+
+## 🔧 Skills
+
+**Languages & Tools:**  
+`Python` | `Flask` | `Django` | `SQL` | `HTML` | `CSS` | `JavaScript` | `Arduino` | `WordPress`
+
+**ML & Data Science:**  
+`Scikit-learn` | `Pandas` | `NumPy` | `Matplotlib` | `Basic ML Model Integration`  
+
+**Databases:**  
+`MySQL` | `SQLite`
+
+**Other Tools:**  
+`VS Code` | `Git & GitHub` | `Jupyter` | `Windows` | `Ubuntu`
+
+**Soft Skills:**  
+`Problem Solving` | `Teamwork` | `Communication` | `Project Management`
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced ML techniques and real-world applications (via SUPARCO)
+- Exploring **MLOps** concepts like model tracking, versioning, and CI/CD for ML
+- Improving deployment skills using **Flask**, **Docker**, and **Streamlit**
+- Enhancing frontend skills with **Flutter** and **React**
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🌀 Galaxy Classification Web App  
+Flask-based app that classifies galaxy images using a trained ML model. Features a responsive UI for user interaction.
+
+### 🎨 Fashion.net Website  
+A fashion-centric responsive website built with Flask, highlighting dynamic trends, product listings, and a style blog.
+
+### 🌦️ ML-Based Weather Condition Detection  
+Built an ML system that classifies weather conditions to assist in smarter environmental decisions.
+
+### 🧪 Air Quality Monitoring System  
+Arduino-based hardware project to monitor gas and temperature levels in real-time, with sensor integration and data visualization.
+
+### 🍰 Dynamic Bakery Website  
+Django + MySQL full-stack project with login authentication, product listing, and real-time order tracking.
+
+---
+
+## 🏢 Experience
+
+**🌐 ML Intern, SUPARCO (Space & Upper Atmosphere Research Commission)**  
+*Jul 2025 – Present* | Karachi, Pakistan  
+- Working on real-world ML models related to satellite imagery and geospatial data.  
+- Assisting in data preprocessing, model training, and result evaluation.  
+- Gaining exposure to MLOps tools and workflows for deploying ML pipelines.
+
+**💻 Intern, NCBC Lab - NEDUET**  
+*Aug 2024 – Sep 2024* | Karachi, Pakistan  
+- Developed web applications using Flask and Django  
+- Integrated ML models into interactive web dashboards  
+- Designed responsive frontends using HTML, CSS, and JavaScript
+
+**🧩 Intern, Pakistan Engineers Forum**  
+*Dec 2024 – Jan 2025* | Karachi, Pakistan  
+- Built and optimized responsive WordPress websites using Elementor  
+- Focused on cross-device UI/UX consistency and performance
+
+
+
+## 📚 Education
+
+**B.E. Computer & Information Systems**  
+*NED University of Engineering and Technology* (2022 – Present)
+
+**Intermediate (Pre-Engineering)**  
+*Govt. Degree College, Cantt* (2020 – 2022)
+
+---
+
+## 🤝 Volunteering & Engagement
+
+- 💡 *Volunteer, Final Year Design Project* – NEDUET CIS Department (2023)  
+- 🔬 *Volunteer, Envision'22* – IEEE Student Branch NEDUET (2022)
+
+---
+
+## 📈 GitHub Stats
+
+![Romaisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romaisa-0&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romaisa-0&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/romaisa-nisar-a64811278)
+- [GitHub](https://github.com/romaisa-0)
+- 📧 romaisanisar21@gmail.com
+
+---
+
+_“Strive to build solutions that are not just functional, but impactful.”_
