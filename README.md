@@ -4,8 +4,6 @@
 
 📍 Karachi, Pakistan  
 📧 romaisanisar21@gmail.com | 📱 +92-332-2939974  
-🌐 [LinkedIn](https://linkedin.com/in/romaisa-nisar-a64811278) | [GitHub](https://github.com/romaisa-0)
-
 ---
 
 ## 🧠 About Me
