@@ -96,4 +96,4 @@ Django + MySQL full-stack project with login authentication, product listing, an
 - 🔬 *Volunteer, Envision'22* – IEEE Student Branch NEDUET (2022)
 ---
 
-_“Strive to build solutions that are not just functional, but impactful.”_
+_Strive to build solutions that are not just functional, but impactful._
