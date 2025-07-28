@@ -12,7 +12,7 @@
 
 I'm a final-year Computer & Information Systems Engineering student at NEDUET, deeply passionate about building real-world solutions using **Machine Learning**, **Web Technologies**, and **IoT**. With hands-on experience in **Python**, **Flask**, **Django**, and ML model integration, I'm constantly exploring ways to bridge software with smart, data-driven systems.
 
-I thrive on challenges, whether it's designing a predictive system, building a full-stack app, or optimizing user experiences. I love learning and aim to grow as a **Machine Learning Engineer** or **Full-Stack Developer**.
+I thrive on challenges, whether it's designing a predictive system, building a full-stack app, or optimizing user experiences. I love learning and aim to grow as a **Machine Learning Engineer**.
 
 ---
 
@@ -37,10 +37,10 @@ I thrive on challenges, whether it's designing a predictive system, building a f
 
 ## 🌱 Currently Learning
 
-- Advanced ML techniques and real-world applications (via SUPARCO)
-- Exploring **MLOps** concepts like model tracking, versioning, and CI/CD for ML
-- Improving deployment skills using **Flask**, **Docker**, and **Streamlit**
-- Enhancing frontend skills with **Flutter** and **React**
+- Advanced ML techniques and real-world applications
+- Working in Reinforcement Learning
+- Improving deployment skills using **Flask**
+- Enhancing frontend skills with **Flutter**
 
 
 ---
@@ -61,7 +61,6 @@ Arduino-based hardware project to monitor gas and temperature levels in real-tim
 
 ### 🍰 Dynamic Bakery Website  
 Django + MySQL full-stack project with login authentication, product listing, and real-time order tracking.
-
 ---
 
 ## 🏢 Experience
@@ -83,8 +82,6 @@ Django + MySQL full-stack project with login authentication, product listing, an
 - Built and optimized responsive WordPress websites using Elementor  
 - Focused on cross-device UI/UX consistency and performance
 
-
-
 ## 📚 Education
 
 **B.E. Computer & Information Systems**  
@@ -99,22 +96,6 @@ Django + MySQL full-stack project with login authentication, product listing, an
 
 - 💡 *Volunteer, Final Year Design Project* – NEDUET CIS Department (2023)  
 - 🔬 *Volunteer, Envision'22* – IEEE Student Branch NEDUET (2022)
-
----
-
-## 📈 GitHub Stats
-
-![Romaisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romaisa-0&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romaisa-0&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/romaisa-nisar-a64811278)
-- [GitHub](https://github.com/romaisa-0)
-- 📧 romaisanisar21@gmail.com
-
 ---
 
 _“Strive to build solutions that are not just functional, but impactful.”_
